@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @unnamedmistress aka 'Chrysti'
-- 👀 I’m interested in building apps and webpages using AI
-- 🌱 I’m currently learning OOP
-- 💞️ I’m looking to collaborate on projects
+(She/Her)
+Software Developer experienced with JavaScript || Node.Js || Express || HTML|| CSS || SQL || Microsoft Power Apps || ChatGPT / OpenAi integrations
+
 - 📫 How to reach me: momchrysti@gmail.com
 
 # Check out Tutor Genie - 
