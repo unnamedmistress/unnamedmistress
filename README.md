@@ -4,7 +4,7 @@ Software Developer experienced with JavaScript || Node.Js || Express || HTML|| C
 - 📫 How to reach me: momchrysti@gmail.com
 
 # Check out Tutor Genie - 
-a AI text based chat interaction to help kids with their homework using encouraging language and fun gen Z slang. With a Double Layer of protection, your child will only be able to ask appropriate questions and direct them back to their parents for anything age level.
+a AI text based chat interaction to help kids with their homework using encouraging language and fun gen Z slang. With a Double Layer of protection, your child will only be able to ask appropriate questions and get educational answers. Imagine your shy kid being able to ask those questions they were too afraid of asking in clas.
 https://textfunopenai.herokuapp.com/
 
 <!---
