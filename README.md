@@ -1,42 +1,29 @@
-# Chrysti Reichert - GPT & AI Integration Specialist
+# Chrysti Reichert
 
-## About Me
-Hello! I'm Chrysti, the AI whisperer your business didn't know it needed. With a passion for all things AI, I turn complex algorithms into simple, powerful tools for success. I specialize in AI consulting, training, prompt engineering, and Power Platform AI integrations.
+I build tools and teach people how to check what AI gives them. I run [My AI Evolution](https://www.myaievolution.com/) in Lakeland, Florida, where I teach women, neurodivergent professionals, and teams how to use AI on real work without handing over their judgment.
 
-## Skills
-- Custom GPT Development
-- Data Entry Automation
-- AI Prompt Engineering
-- Knowledge Bank Construction
-- International AI Integrations
-- OpenAI Integration and API models
-- MERN Stack: MongoDB, Express.js, React, Node.js
-- Database Design: SQL, MySQL
-- Web Technologies: HTML5, CSS, JavaScript, Bootstrap, Tailwind
-- Microsoft Power Platform: Power BI, Power Apps
-- Version Control: Git/GitHub
-- Additional Skills: Adobe Acrobat, Google Suite, Project Management
+My work brings software and teaching together. The projects here give you something to try, inspect, and adapt.
 
-## Services
-- **GPT Solutions**: Custom GPT models for diverse applications.
-- **AI-Powered Knowledge Banks**: Efficient knowledge management solutions.
-- **AI Prompting & Training**: Enhancing productivity and creativity.
-- **Custom GPT Development**: Tailored solutions for unique business needs.
+## Start with something you can use
 
-## Projects
-1. **CountMyCalories Connie**: AI for calorie tracking. [More Info](#)
-2. **Typo Terminator**: Cover letter and essay assistance tool. [GitHub](#)
-3. **Tutor Genie**: AI assistant for educational queries. [More Info](#)
-4. **Auto Correct on Steroids**: AI text generator for grammar and spelling. [GitHub](#)
-5. **Food At Home**: Ingredient-to-meal idea app. [GitHub](#)
-6. **The Paw Path**: Pet adoption search site. [GitHub](#)
-7. **PowerBI - Power Apps**: Building dynamic Power Apps and visualizations. 
+### Personal AI assistant starter
 
-## Contact
-- **LinkedIn**: [Profile](https://www.linkedin.com/in/chrysti-reichert)
-- **GitHub**: [Repositories](https://github.com/username)
-- **Location**: St. Petersburg, FL
-- **Hire me on Upwork**: [Profile](https://www.upwork.com/freelancers/~yourprofile)
+[Build an assistant you can check](https://github.com/unnamedmistress/personal-ai-assistant-starter). This free starter includes templates for sources, approval rules, and proof that a task is done. Fictional exercises let you practice spotting stale facts and false completion claims. The Python checks test the sample records, not the reliability of an AI model.
 
-© 2023 Chrysti Reichert
+### Practical AI safety
 
+[Practice checking AI answers, memory, and tools](https://github.com/unnamedmistress/practical-ai-safety). This guide walks through what to check before you trust an assistant with your work. Use the examples to think through what it can do and what still needs your approval.
+
+### The Catch Test
+
+[Try the Catch Test](https://www.myaievolution.com/quiz). Read AI answers to six everyday situations and decide which ones hold up. The examples are fictional, and you don't need an account to try them.
+
+## How I work
+
+I want to know where an answer came from, what the tool can do, and what proves the task is finished. Those questions shape both the software I build and the way I teach. A confident answer still needs a check.
+
+My technical work includes JavaScript, React, Node.js, HTML, CSS, and Python. I use code to build practice tools and checks that people can inspect for themselves.
+
+## Work with me
+
+Visit [My AI Evolution](https://www.myaievolution.com/) for AI training, hands-on practice, and personal AI assistant coaching. Bring the work you're trying to do and the part where AI keeps getting stuck.
